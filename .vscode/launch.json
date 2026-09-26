@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "compositenumber",
+            "request": "launch",
+            "mainClass": "compositenumber",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "loop2",
+            "request": "launch",
+            "mainClass": "loop2",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "jit",
+            "request": "launch",
+            "mainClass": "jit",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "greater",
+            "request": "launch",
+            "mainClass": "greater",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "loop3",
+            "request": "launch",
+            "mainClass": "loop3",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
             "name": "main",
             "request": "launch",
             "mainClass": "main",
