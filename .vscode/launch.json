@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "digitcount",
+            "request": "launch",
+            "mainClass": "digitcount",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
             "name": "whileloopTest",
             "request": "launch",
             "mainClass": "whileloopTest",
