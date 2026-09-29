@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern2",
+            "request": "launch",
+            "mainClass": "Pattern2",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
+            "name": "sumdigit",
+            "request": "launch",
+            "mainClass": "sumdigit",
+            "projectName": "Java DSA_1beeba10"
+        },
+        {
+            "type": "java",
             "name": "digitcount",
             "request": "launch",
             "mainClass": "digitcount",
