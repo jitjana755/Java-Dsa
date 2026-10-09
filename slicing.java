@@ -1,14 +1,6 @@
-public class slicing {
-    public static void main(String[] args) {
+s = "Hello World"
 
-        String s = "Hello World";
-
-        System.out.println(s.substring(0, 5));
-
-        System.out.println(s.substring(2, 7));
-
-        System.out.println(s.substring(0, 5));
-
-        System.out.println(s.substring(6));
-    }
-}
+print(s[0:5])
+print(s[2:7])
+print(s[:5])
+print(s[6:])
